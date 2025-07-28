@@ -1,0 +1,7 @@
+speech_recognition  
+pyttsx3
+datetime
+webbrowser
+wikipedia
+tkinter 
+messagebox
